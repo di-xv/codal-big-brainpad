@@ -73,6 +73,7 @@ DEALINGS IN THE SOFTWARE.
 #define ID_PIN_LIGHT_SENSOR (DEVICE_ID_IO_P0 + 33)
 #define ID_PIN_SERIAL_RX    (DEVICE_ID_IO_P0 + 34)
 #define ID_PIN_SERIAL_TX    (DEVICE_ID_IO_P0 + 35)
+#define ID_2812             (DEVICE_ID_IO_P0 + 36)
 
 namespace codal
 {
